@@ -8,4 +8,4 @@
 
 ## Project deployed at vercel
 
-- [Demo](https://docs.platform.sh/add-services/postgresql.html#exporting-data)
+- [Demo](https://nft-marketplace-umber-alpha.vercel.app/)
